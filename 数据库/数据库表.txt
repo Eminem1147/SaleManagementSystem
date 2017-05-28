@@ -1,0 +1,6 @@
+帐号信息表：account(accountid,accountname,accountpassword)
+商品表：product(productid,productname,producedate,inprice,saleprice,unit,indate,storagetime（保质期）)
+顾客表：guest(guestid,guestname,guestaddress,phonenumber)
+销售表：sale(saleid,productid,productname,guestid,selltime,number,money)
+入库表：store(storeid,productid,productname,inprice,number,unit)
+库存表：storage(productid,productname,downlimit（下限）,unit,number,price)
