@@ -1,0 +1,2 @@
+# SaleManagementSystem
+Java Swing + MySQL
